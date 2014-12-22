@@ -36,4 +36,8 @@ cacheSolve <- function(x) {
     message("Done.")
     return(m)
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> FETCH_HEAD
